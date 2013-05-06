@@ -15,5 +15,6 @@
 # the speaker delivered PowerPoint presentation
 
 # what is missing?
-# The MongoDB zip files and Java jar should be obtained from 10Gen www.mongodb.org
+# The MongoDB documentation, program zip files and Java driver jar 
+# should be obtained from 10Gen www.mongodb.org
 # You need to obtain your appropriate Java SDK and development IDE
