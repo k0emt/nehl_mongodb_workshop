@@ -1,0 +1,19 @@
+# These are workshop materials that are used by
+# Bryan Nehl for MongoDB with Java training
+
+# the spreadsheet is public domain government data from the census bureau
+# the java templates are for use in class -- they have missing key code
+# the java source files is the instructor/reference code
+
+# names.json is imported in the workshop
+# generate_names.py is Python 2.7 code used to generate names.json
+
+# the repset folder has the basic structure created for the replica set training
+
+# a PDF of the training slide deck is included
+# the PDF version, lacks the "reveal" and explanation of
+# the speaker delivered PowerPoint presentation
+
+# what is missing?
+# The MongoDB zip files and Java jar should be obtained from 10Gen www.mongodb.org
+# You need to obtain your appropriate Java SDK and development IDE
